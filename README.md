@@ -33,6 +33,7 @@ Busco siempre escribir código claro, eficiente y fácil de mantener, aplicando 
 - Conexión del frontend con APIs y bases de datos
 
 ---
+[![tl.png](https://i.postimg.cc/9FVMtZpn/tl.png)](https://postimg.cc/Z074J9X8)
 
 ## 📊 Estadísticas de GitHub
 
